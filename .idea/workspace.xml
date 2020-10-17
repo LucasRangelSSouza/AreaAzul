@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 10" />
+        <device id="pixel_3" />
+        <device id="Nexus 6P" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cccf223-dce5-47af-9ab3-08b70a7c30aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/androidTest/java/com/example/appnoticias/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/java/com/example/appnoticias/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/drawable-v24/android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/drawable-v24/celular.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/app/src/test/java/com/example/appnoticias/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AppNoticias/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MapsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MapsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/ProcessandoPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/TaskLoadedCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/aguardandoRetirada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/contagemRegressiva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sensor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sobre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sphash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/alphalogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/aproved.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/comprovante.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/debitcard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/elderly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/equipe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/mylocate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/parkicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/parkiconred.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/parking.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/placacarro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/question.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sensor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sobreloca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/stopwatch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ticketparklogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/wheelchair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/aldrich.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/doppio_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/roboto_slab_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_aguardando_retirada.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_contagem_regressiva.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_processando_pagamento.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sobre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sphash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/androidTest/java/com/example/etanolougasolina/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/java/com/example/etanolougasolina/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/app/src/test/java/com/example/etanolougasolina/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EtanolouGasolina/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gorjeta/app/src/main/res/drawable/gorjeta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gorjeta/app/src/main/res/drawable/rounded_corner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/jokenpoico-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-anydpi-v26/jokenpoico.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-anydpi-v26/jokenpoico_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-hdpi/jokenpoico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-hdpi/jokenpoico_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-hdpi/jokenpoico_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-mdpi/jokenpoico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-mdpi/jokenpoico_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-mdpi/jokenpoico_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xhdpi/jokenpoico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xhdpi/jokenpoico_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xhdpi/jokenpoico_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xxhdpi/jokenpoico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xxhdpi/jokenpoico_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xxhdpi/jokenpoico_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xxxhdpi/jokenpoico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xxxhdpi/jokenpoico_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/mipmap-xxxhdpi/jokenpoico_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/values/jokenpoico_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/androidTest/java/com/example/login/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/java/com/example/login/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/app/src/test/java/com/example/login/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable-v24/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable/ic_content_copy_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable/ic_message_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable/ic_pause_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable/ic_play_arrow_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable/ic_seta_baixo_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable/ic_settings_backup_restore_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable/ic_star_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netflix/app/src/main/res/drawable/ic_volume_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/androidTest/java/com/example/park/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/debug/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/java/com/example/park/MapsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/layout/activity_maps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/release/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/app/src/test/java/com/example/park/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Park/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/debug/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/Balanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/Basquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/BrincadeirasLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/Cadastrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/Escorregador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/Futebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/MapsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/MenuInicial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/MeuPerfil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/OndeBrincar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/Ranking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/RodaRoda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/Skate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/Sugestoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/VamosBrincar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/lojinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/java/com/example/myapplication/sobre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/as.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/balanco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/basquete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/bc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/bs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/congratulation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/cs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/dc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/dialog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/ds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/ec.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/equipe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/es.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/escorregador.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/fs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/futebol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/giragira.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/loja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/painelogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/painetech_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/playground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/podio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/podium.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/drawable/skate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_balanco.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_basquete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_brincadeiras_lista.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_cadastrar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_escorregador.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_futebol.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_lojinha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_menu_inicial.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_meu_perfil.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_onde_brincar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_ranking.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_roda_roda.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_skate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_sobre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_sugestoes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/layout/activity_vamos_brincar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-anydpi-v26/painetech.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-anydpi-v26/painetech_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-hdpi/painetech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-hdpi/painetech_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-hdpi/painetech_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-mdpi/painetech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-mdpi/painetech_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xhdpi/logologin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xhdpi/painetech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xhdpi/robostorm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxhdpi/painetech_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxhdpi/painetech_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxxhdpi/painetech.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxxhdpi/painetech_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/mipmap-xxxhdpi/painetech_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/values/painetech_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/release/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parque/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecicleView/app/src/main/java/com/example/recicleview/adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecicleView/app/src/main/res/layout/adapter_lista_filmes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jokenpo/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jokenpo/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="4A464W64O" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AreaAzul" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sphash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="32" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MapsFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="50" column="5" selection-start-line="42" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/google_maps_api.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="128" selection-start-line="22" selection-start-column="128" selection-end-line="22" selection-end-column="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MapsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-655">
+              <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sobre.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sobre.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>C</find>
+      <find>tempo</find>
+      <find>android:label</find>
+      <find>co</find>
+      <find>main</find>
+      <find>Main</find>
+      <find>intent</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/qrCode.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_qrCode.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/ContadorRegressivo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-v21/spinner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/Pagamento.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MyCountDownTime.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_pagamento.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/ContadorTempo.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MaskUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dados_cartao.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dados_estacionamento.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_contagem_regressiva.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_aguardando_retirada.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sphash.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/spinner_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_qr_code.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_processando_pagamento.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/PointsParser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/aguardandoRetirada.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/contagemRegressiva.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/DadosCartao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/DadosEstacionamento.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/ProcessandoPagamento.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/QrCode.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sphash.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MapsFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/google_maps_api.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MapsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sobre.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sobre.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="431" />
+    <option name="y" value="-32" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="areaazul" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="menu" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="AreaAzul" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="1AF31680L" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-03-04T18:23:10.438Z" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="b7fbccdc" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/values-v21" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lucas\Projetos\AndroidStudio\AreaAzul\app\src\main\res\drawable" />
+      <recent name="D:\Lucas\Projetos\AndroidStudio\AreaAzul\app\src\main\res\drawable-v24" />
+      <recent name="D:\Lucas\Projetos\AndroidStudio\AreaAzul\app\src\main\res\layout" />
+      <recent name="D:\Lucas\Projetos\AndroidStudio\AreaAzul\app\src\main\res\values" />
+      <recent name="D:\Lucas\Projetos\AndroidStudio\AreaAzul\app\src\main\java\com\senai\areaazul" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.senai.areaazul" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.senai.areaazul" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Lucas\Projetos\AndroidStudio\AreaAzul\app\src\main\res\values" />
+      <recent name="C:\Users\alex.senai\AndroidStudioProjects\AreaAzul\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cccf223-dce5-47af-9ab3-08b70a7c30aa" name="Default Changelist" comment="" />
+      <created>1582914137773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582914137773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="798" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.5007657" side_tool="true" weight="0.19197708" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.4992343" visible="true" weight="0.1885906" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49928367" weight="0.2057057" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4977307" weight="0.43993995" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.32882884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.10660661" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50226927" side_tool="true" weight="0.2536825" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4969743" visible="true" weight="0.2777778" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32882884" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3295129" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.37965617" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32885906" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" sideWeight="0.5007657" side_tool="true" weight="0.19197708" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4992343" visible="true" weight="0.1885906" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49928367" weight="0.32882884" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.4977307" weight="0.22913256" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3293011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.10660661" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50226927" side_tool="true" weight="0.2536825" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.4969743" visible="true" weight="0.2792793" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32882884" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.3295129" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.37965617" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32885906" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/ContadorRegressivo.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_pagamento.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/Pagamento.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rounded_corner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MaskUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dados_cartao.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="168" column="46" selection-start-line="168" selection-start-column="46" selection-end-line="168" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_contagem_regressiva.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_aguardando_retirada.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_manage.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_send.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sphash.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/spinner_item.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v21/spinner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dados_estacionamento.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="143" column="46" selection-start-line="135" selection-start-column="3" selection-end-line="143" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_qr_code.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/TaskLoadedCallback.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/FetchURL.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/PointsParser.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_processando_pagamento.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/DataParser.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/placacarro.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/aguardandoRetirada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/ContadorTempo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/contagemRegressiva.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="105" column="17" selection-start-line="105" selection-start-column="17" selection-end-line="105" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/DadosCartao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/DadosEstacionamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/ProcessandoPagamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="131" column="17" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/concurrent/ThreadPoolExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <folding>
+            <element signature="e#0#28722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/QrCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="80" column="17" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MapsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="50" column="5" selection-start-line="42" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/google_maps_api.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="128" selection-start-line="22" selection-start-column="128" selection-end-line="22" selection-end-column="128" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/MapsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-655">
+          <caret line="45" column="59" selection-start-line="45" selection-start-column="59" selection-end-line="45" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sobre.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sphash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senai/areaazul/sobre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

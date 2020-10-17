@@ -1,0 +1,4 @@
+#Tue Mar 03 14:26:59 BRT 2020
+base.0=D\:\\Androidworkspace\\AreaAzul\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

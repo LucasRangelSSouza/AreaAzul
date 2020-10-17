@@ -1,0 +1,7 @@
+#Wed Mar 04 19:08:01 BRT 2020
+base.0=D\:\\Lucas\\Projetos\\AndroidStudio\\AreaAzul\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Lucas\\Projetos\\AndroidStudio\\AreaAzul\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
